@@ -31,4 +31,4 @@ As seguintes fontes abertas foram utilizadas na ferramenta:
 ## 🔗 Acesso ao NotebookLM
 
 Link do caderno temático:
-[Glossário inteligente do Universo Tech](https://notebooklm.google.com/notebook/97460137-1649-4002-814d-f55d2908874b)
+[Glossário Inteligente do Universo Tech](https://notebooklm.google.com/notebook/97460137-1649-4002-814d-f55d2908874b)
